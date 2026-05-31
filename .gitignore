@@ -1,0 +1,19 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+app.py
+db_script.py
+
+We have not uploaded these files
+
+Password.txt
+apikey2.txt
+apikey1.txt
+
